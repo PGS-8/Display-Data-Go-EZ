@@ -1,5 +1,3 @@
 # Note
 
-ผมไม่สามารถติดตั้ง ngrok ได้ เลยขอแสดง Demo เป็นคลิปแทนนะครับ
-
-[Demo](demo.mp4)
+[Demo Video](https://youtu.be/f6XQ_p_J6Qg)
